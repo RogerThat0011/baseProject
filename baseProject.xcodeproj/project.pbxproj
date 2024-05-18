@@ -13,6 +13,7 @@
 		E953AAED2BF8797800879C36 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E953AAEC2BF8797800879C36 /* Assets.xcassets */; };
 		E953AAF02BF8797800879C36 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E953AAEF2BF8797800879C36 /* Preview Assets.xcassets */; };
 		E953AAF32BF8797800879C36 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E953AAF12BF8797800879C36 /* LaunchScreen.storyboard */; };
+		E953AAFC2BF87C6600879C36 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = E953AAFB2BF87C6600879C36 /* GoogleService-Info.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		E953AAEF2BF8797800879C36 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		E953AAF22BF8797800879C36 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E953AAF42BF8797800879C36 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E953AAFB2BF87C6600879C36 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				E953AAE62BF8797600879C36 /* AppDelegate.swift */,
 				E953AAE82BF8797600879C36 /* SceneDelegate.swift */,
 				E953AAEA2BF8797600879C36 /* ContentView.swift */,
+				E953AAFB2BF87C6600879C36 /* GoogleService-Info.plist */,
 				E953AAEC2BF8797800879C36 /* Assets.xcassets */,
 				E953AAF12BF8797800879C36 /* LaunchScreen.storyboard */,
 				E953AAF42BF8797800879C36 /* Info.plist */,
@@ -133,6 +136,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				E953AAF32BF8797800879C36 /* LaunchScreen.storyboard in Resources */,
+				E953AAFC2BF87C6600879C36 /* GoogleService-Info.plist in Resources */,
 				E953AAF02BF8797800879C36 /* Preview Assets.xcassets in Resources */,
 				E953AAED2BF8797800879C36 /* Assets.xcassets in Resources */,
 			);
